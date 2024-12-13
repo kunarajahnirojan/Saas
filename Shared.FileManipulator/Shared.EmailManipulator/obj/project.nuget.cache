@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3rbxCRIY423KIXCSHmdOW/HRdgMkRaRo9/zFSf6snVcpQZnQvknCyCbaSTeoYWvsjMuhCJml6wRRZgw1E8PH6w==",
+  "dgSpecHash": "ktdf3jCP1Vg=",
   "success": true,
   "projectFilePath": "/Users/nirojan/Documents/Slytherene/SAAS/Saas/Shared.FileManipulator/Shared.EmailManipulator/Shared.EmailManipulator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/nirojan/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/nirojan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

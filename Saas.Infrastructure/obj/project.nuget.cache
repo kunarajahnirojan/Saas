@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ox3YKuudrRDurd0CiwCeJvg6SAy9Ual4tLiQhtG+qBh1V7iuU+9n2wwCrTcPNSh35hmLPePQubkrnuf/jhBGkw==",
+  "dgSpecHash": "IEwO1O1+5EM=",
   "success": true,
   "projectFilePath": "/Users/nirojan/Documents/Slytherene/SAAS/Saas/Saas.Infrastructure/Saas.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/nirojan/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/nirojan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

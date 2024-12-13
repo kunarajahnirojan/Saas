@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shared.Installer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0537f6636a86dec3e016bbc77a129601a37bcb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shared.Installer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shared.Installer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "D74r1aJ4cAkPM4YIoNHOb/ROm9MBMWPuZniu/Bau6nqBiwOgfF6nQpfbQxUPWqV1IsbLAahnJ1B6RWAnMB2qUQ==",
+  "dgSpecHash": "8CL8sITYRH8=",
   "success": true,
   "projectFilePath": "/Users/nirojan/Documents/Slytherene/SAAS/Saas/Shared.Pagination/Shared.Helpers/Shared.Helpers.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/nirojan/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/nirojan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
